@@ -18,5 +18,7 @@ Given the text: “The quick brown fox and the quick blue hare.” The bigrams w
 "quick blue" 1
 "blue hare" 1
 
-#########################
+###################################
+
+
 To execute program, clone file, run bundle install, and then ruby app.rb. Follow the instructions from there.
